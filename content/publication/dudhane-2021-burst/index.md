@@ -4,7 +4,7 @@
 title: Burst Image Restoration and Enhancement
 subtitle: ''
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**CVPR 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span> <br> we develop a novel approach by solely focusing on the effective information exchange between burst frames, such that the degradations get filtered out while the actual scene details are preserved and enhanced.
+summary: <span style="font-size:120%;color:#117A65">**CVPR 2022**</span>, <span style="font-size:120%;color:#D35400">**Oral**</span>, <span style="font-size:120%;color:#D100D1">**Best Paper Finalist**</span> <br> we develop a novel approach by solely focusing on the effective information exchange between burst frames, such that the degradations get filtered out while the actual scene details are preserved and enhanced.
 authors:
 - Akshay Dudhane
 - admin
@@ -31,13 +31,13 @@ links:
 
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/akshaydudhane16/BIPNet'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://mbzuaiac-my.sharepoint.com/:v:/g/personal/akshay_dudhane_mbzuai_ac_ae/EaZQu17BqjVEuSBSPdxZ8hEB5a-HH4HcD34PXm7PhP3SYw?e=uRGd16'
 
 
 
