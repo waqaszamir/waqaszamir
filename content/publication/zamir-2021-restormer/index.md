@@ -42,9 +42,9 @@ url_code: 'https://github.com/swz30/Restormer'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/19wKhnQtr3mcD6IsLj0ZFSwCgIRKUkDQJ/view?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=3mqu6N4_0pY&t'
 
 
 
