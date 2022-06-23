@@ -19,6 +19,9 @@ lastmod: 2022-04-07T13:06:37+04:00
 featured: true
 draft: false
 
+links:
+- name: Colab Demo
+  url: https://colab.research.google.com/drive/1HN9Sd8UEqB1k_O8RpdRLL8ZUKcxh5LP8?usp=sharing
 
 url_pdf: ''
 url_code: 'https://github.com/swz30/MIRNetv2'
