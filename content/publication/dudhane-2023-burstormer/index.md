@@ -4,7 +4,7 @@
 title: "Burstormer: Burst Image Restoration and Enhancement Transformer"
 subtitle: ''
 # Summary. An optional shortened abstract.
-summary: <span style="font-size:120%;color:#117A65">**CVPR 2023**</span> <br> we develop a novel Transformer based design for burst-image restoration and enhancement that leverages multi-scale local and non-local features for improved alignment and feature fusion. Its flexible design allows processing bursts of variable sizes.
+summary: <span style="font-size:120%;color:#117A65">**CVPR 2023**</span> <br> we develop a Transformer-based framework for burst-image restoration that leverages multi-scale local and non-local features for improved alignment and feature fusion. Its flexible design allows processing bursts of variable sizes.
 authors:
 - Akshay Dudhane
 - admin
