@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: PromptIR: Prompting for All-in-One Image Restoration
+title: 'PromptIR: Prompting for All-in-One Image Restoration'
 subtitle: ''
 # Summary. An optional shortened abstract.
 summary: <span style="font-size:120%;color:#117A65">**NeurIPS 2023**</span> <br> PromptIR utilizes prompt-based learning to restore images across various degradation types and levels, achieving state-of-the-art results in denoising, deraining, and dehazing, providing an efficient plugin module for image restoration without prior knowledge of corruptions.
