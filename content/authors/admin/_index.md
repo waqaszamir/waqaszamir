@@ -19,10 +19,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Computer Vision
+- Generative AI for Content Understanding and Creation
 - Low-Level Computer Vision
 - Deep Learning
-- Computational Imaging
-- Color Science
+- Efficient Neural Architectures
 - Image Restoration and Enhancement
 
 
@@ -46,7 +47,7 @@ interests:
 social:
 - icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.es/citations?hl=en&user=WNGPkVQAAAAJ
+  link: https://scholar.google.ae/citations?hl=en&user=POoai-QAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/swz30
